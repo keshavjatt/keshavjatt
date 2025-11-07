@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Keshav..;Web+Developer+Enthusiast;Learning+And+Building+Projects;Nice+To+Meet+You..!!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Keshav..;AI/ML Enthusiast+Enthusiast;Learning+And+Building+Projects;Nice+To+Meet+You..!!" alt="Typing SVG">
 </p>
     
 # 🖥️ Technical Skills: 
