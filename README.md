@@ -11,12 +11,12 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=keshavjatt&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavjatt&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=developerkeshu&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerkeshu&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=keshavjatt&theme=radical&hide_border=false" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=developerkeshu&theme=radical&hide_border=false" />
 </p>
 
 <p align="center">
